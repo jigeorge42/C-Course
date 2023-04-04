@@ -1,0 +1,16 @@
+C:\Users\gjosh\Desktop\ex files\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.exe
+C:\Users\gjosh\Desktop\ex files\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.deps.json
+C:\Users\gjosh\Desktop\ex files\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.runtimeconfig.json
+C:\Users\gjosh\Desktop\ex files\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.runtimeconfig.dev.json
+C:\Users\gjosh\Desktop\ex files\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.dll
+C:\Users\gjosh\Desktop\ex files\Exercise Files\Start\Strings\ProgChallengeStart\bin\Debug\net5.0\ProgChallengeStart.pdb
+C:\Users\gjosh\Desktop\ex files\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.csproj.AssemblyReference.cache
+C:\Users\gjosh\Desktop\ex files\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gjosh\Desktop\ex files\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.AssemblyInfoInputs.cache
+C:\Users\gjosh\Desktop\ex files\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.AssemblyInfo.cs
+C:\Users\gjosh\Desktop\ex files\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.csproj.CoreCompileInputs.cache
+C:\Users\gjosh\Desktop\ex files\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.dll
+C:\Users\gjosh\Desktop\ex files\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\refint\ProgChallengeStart.dll
+C:\Users\gjosh\Desktop\ex files\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.pdb
+C:\Users\gjosh\Desktop\ex files\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ProgChallengeStart.genruntimeconfig.cache
+C:\Users\gjosh\Desktop\ex files\Exercise Files\Start\Strings\ProgChallengeStart\obj\Debug\net5.0\ref\ProgChallengeStart.dll
