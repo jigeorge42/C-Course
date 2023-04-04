@@ -24,7 +24,6 @@ namespace ProgChallengeStart
           
        
             // Start the game and run until user quits or guesses correctly
-            // HINT: You'll need a way to convert the user's input to an integer
                 do{
                 inputVar = Console.ReadLine();
                 bool result = Int32.TryParse(inputVar, out targetNum);
